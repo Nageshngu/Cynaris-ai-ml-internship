@@ -1,0 +1,6 @@
+task_id,topic,description,agents,priority
+1,Artificial Intelligence,Research AI applications,Researcher Writer Reviewer,High
+2,Healthcare,Analyse AI in disease prediction,Researcher Writer Reviewer,High
+3,Agriculture,Explore smart farming solutions,Researcher Writer Reviewer,Medium
+4,Cybersecurity,Study modern security threats,Researcher Writer Reviewer,High
+5,Education,Research AI based learning tools,Researcher Writer Reviewer,Medium
